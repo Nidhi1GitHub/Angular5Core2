@@ -30,6 +30,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="ClientApp\src\app\Components\" />
     <Folder Include="ClientApp\src\app\Services\" />
   </ItemGroup>
 
